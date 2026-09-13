@@ -11,3 +11,4 @@
 1. Setup and access your workbook repository for the course
 1. ⚠️ Explain the dangers of storing your local repositories in a cloud-synced folder (OneDrive, Dropbox, etc.) 👀
 1. Identify where to locate the [official documentation for JavaScript](https://developer.mozilla.org/docs/Web/JavaScript)
+
